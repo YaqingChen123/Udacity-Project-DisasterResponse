@@ -50,8 +50,11 @@ I upload the following jupyter notebooks to the 'Data' and 'Model' folder, so th
 
 # Results
 1. After you open the link, you should be able to see the web app. After entering message and clicking <b>Classify Message</b>, you can see the categories which the message belongs to<br>
+![image](https://github.com/YaqingChen123/Udacity-Project-DisasterResponse/blob/main/Image/Disaster%20Response%20Project1.png)
 2. The following screenshot is the result<br>
+![image](https://github.com/YaqingChen123/Udacity-Project-DisasterResponse/blob/main/Image/Disaster%20Response%20Project2.png)
 3. The web app's main page shows an overview of traning data
+![image](https://github.com/YaqingChen123/Udacity-Project-DisasterResponse/blob/main/Image/Disaster%20Response%20Project3.png)
 
 # Acknowledgements
 I'm grateful to <b>Udacity</b> for enabling me to apply my data engineering skills to build a model for an API that classifies disaster messgae. Also thanks to <b>Figure Eight</b> for providing message dataset to train my model
