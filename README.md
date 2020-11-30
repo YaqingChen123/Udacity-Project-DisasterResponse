@@ -19,7 +19,7 @@ The Project is divided in the following three sections:<br>
   &emsp;<b>templates</b>: folder containing<br>
   &emsp;&emsp;<b>go.html</b>: renders the message claddifier<br>
   &emsp;&emsp;<b>master.html</b>: renders homepage<br>
-  <b>run.py</b>: defines the app routes<br>
+  &emsp;<b>run.py</b>: defines the app routes<br>
 
 - Data folder contains the following:<br>
   <b>categories.csv</b>: contains the disaster categories csv file<br>
